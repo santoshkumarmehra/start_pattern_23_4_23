@@ -7,3 +7,10 @@ def pattern(num):
 
 num = int(input("enter number: "))
 pattern(num)
+
+enter number: 5
+* 
+* *
+* * *
+* * * *
+* * * * * 
